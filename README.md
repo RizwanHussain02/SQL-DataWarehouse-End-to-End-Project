@@ -1,6 +1,6 @@
 # SQL Data Warehouse — End-to-End Project (Medallion Architecture)
 
-Build a complete **Data Warehouse** using the **Medallion Architecture** (**Bronze → Silver → Gold**) in **SQL-SERVER** to transform raw CSV extracts into **analytics‑ready** datasets.
+Build a complete **Data Warehouse** using the **Medallion Architecture** (**Bronze → Silver → Gold**) in **SQL-SERVER** to transform raw CSV, extracts into **analytics‑ready** datasets.
 
 ---
 
